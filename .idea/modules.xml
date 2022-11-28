@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PluginStudy.iml" filepath="$PROJECT_DIR$/.idea/modules/PluginStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PluginStudy.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PluginStudy.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PluginStudy.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/PluginStudy.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/injectLib/PluginStudy.injectLib.iml" filepath="$PROJECT_DIR$/.idea/modules/injectLib/PluginStudy.injectLib.iml" />
+    </modules>
+  </component>
+</project>
